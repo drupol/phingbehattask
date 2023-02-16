@@ -1,0 +1,4 @@
+<project>
+    <taskdef name="behat" classname="\Phing\Behat\Task" />
+    <taskdef name="behat:balancer" classname="\Phing\Behat\Balancer" />
+</project>

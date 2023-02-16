@@ -1,0 +1,7 @@
+<project name="test" default="test">
+    <import file="../../import.xml"/>
+
+    <target name="test">
+        <behat/>
+    </target>
+</project>
